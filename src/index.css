@@ -16,3 +16,7 @@ body {
 ::-webkit-scrollbar {
   display: none;
 }
+
+.gradient-1{
+  background: linear-gradient(90deg, #FFAFBD 0%, #FFC3A0 50%, #FFD3B6 100%);
+}
