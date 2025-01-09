@@ -95,7 +95,7 @@ const Home = () => {
 
         <img
           className="w-full h-60 sm:h-72  object-cover object-center"
-          src='/bg-hero-3.jpg'
+          src='https://res.cloudinary.com/dvpaztqr9/image/upload/f_auto,q_auto/v1/playground/crabd0gqa0diwx5rmrsp'
           alt="RecipeStory-Banner"
         />
       </div>
