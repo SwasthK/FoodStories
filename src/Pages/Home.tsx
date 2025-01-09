@@ -94,7 +94,6 @@ const Home = () => {
         </div>
 
         <img
-          loading="lazy"
           className="w-full h-60 sm:h-72  object-cover object-center"
           src='/bg-hero-3.jpg'
           alt="RecipeStory-Banner"
